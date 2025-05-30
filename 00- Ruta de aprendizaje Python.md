@@ -1,5 +1,5 @@
 # Ruta de Aprendizaje de Python  
-*(Contenido clave numerado del 01 al 27)*  
+
 
 | Nivel         | Tema                      | Contenido Clave                                                                 | Recursos Recomendados                          |
 |---------------|---------------------------|---------------------------------------------------------------------------------|-----------------------------------------------|
